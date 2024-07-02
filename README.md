@@ -15,4 +15,4 @@ Am intentionat comasarea elementelor html, css si java script intr-un singur fis
    4. cel mai important aspect, functia _editChange{}_ si instructiunile (statements) pe care le executa:
    - am creat o variabila locala _countryName_ care va prelua valorile din _input_ .
    - am folosit instructiunea for...in pentru a itera prin proprietatile obiectului _regiuniWHO{}_
-   - am creat
+   - am afisat in pagina tarile si regiunile aferente
